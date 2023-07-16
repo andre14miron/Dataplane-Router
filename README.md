@@ -1,6 +1,6 @@
 # Dataplane Router
 
-## The main goals
+## Main goals
 This project focuses on implementing the
 dataplane router component as per the given requirements. The following tasks have been successfully completed:
 
@@ -9,7 +9,7 @@ dataplane router component as per the given requirements. The following tasks ha
 - ARP (Address Resolution Protocol) protocol implementation
 - ICMP (Internet Control Message Protocol) protocol implementation
 
-## The implementation
+## Implementation
 Before receiving the first packet, the following components are initialized:
 
 - Routing table: Static entries are read and added using the read_rtable() function.
